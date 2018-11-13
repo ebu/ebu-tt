@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+This is a public repository with key information about the EBU Timed Text (EBU-TT) format.
 
-You can use the [editor on GitHub](https://github.com/ebu/ebu-tt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Use of this repository
+This repository is used to:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Track feedback (questions, bug reports, etc.) related to EBU-TT
+-> Please use the [issues tracker](https://github.com/ebu/ebu-tt/issues)
 
-### Markdown
+2. Provide a list of FAQ
+-> See the [github pages here](https://ebu.github.io/ebu-tt)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ebu/ebu-tt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# More on EBU-TT
+You can find more information on EBU's work on the [tech.ebu.ch](https://tech.ebu.ch/subtitling) website.
